@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nadsmal
-- 👀 I’m interested in improving health outcomes and health equity using public health data
-- 😄 Pronouns: She/Her
+- 👋 Hi, I’m Nadia
+- I’m interested in improving healthcare outcomes and improving business processes using data.
+- Pronouns: She/Her
 
 <!---
 nadsmal/nadsmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
