@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nadia
-- I’m interested in improving healthcare outcomes and improving business processes using data.
+- I’m interested in improving business processes and healthcare outcomes using data.
 - Pronouns: She/Her
 
 <!---
